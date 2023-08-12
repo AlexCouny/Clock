@@ -9,7 +9,7 @@
     scroll-behavior: smooth;
 }
 body {
-    background-image: url(./images/ukraine-7852286_1920.jpg);
+    background-image: url(./ukraine-7852286_1920.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -53,12 +53,12 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(./images/kiev-5202547_1920.jpg);
+    background-image: url(./kiev-5202547_1920.jpg);
     background-size: cover;
     transition: 0.7s;
 }
 .clock__body:hover {
-    background-image: url(./images/lions-1665105_1920.jpg);
+    background-image: url(./lions-1665105_1920.jpg);
 }
 .clock__hours {
     position: absolute;
