@@ -108,6 +108,7 @@ h1 {
     font-weight: 700;
     font-family: 'Times New Roman', Times, serif;
     color: #1371fe;
+    text-shadow: 10px 5px 13px #000;
 }
 .clock__body:hover .clock__numbers-item {
     color: rgb(243, 243, 18);
