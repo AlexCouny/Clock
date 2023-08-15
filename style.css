@@ -202,6 +202,7 @@ h1 {
     right: 10px;
     width: 300px;
     animation: eagle 2s linear infinite alternate;
+    filter: drop-shadow(8px 5px 5px #000000c9);
 }
 @keyframes eagle {
     0% {
@@ -219,6 +220,7 @@ h1 {
     z-index: -1;
     transform-origin: right;
     animation: wing 4s linear infinite alternate;
+    filter: drop-shadow(8px 5px 5px #000000c9);
 }
 @keyframes wing {
     0% {
@@ -233,4 +235,5 @@ h1 {
     position: absolute;
     width: 1150px;
     bottom: -20px;
+    filter: drop-shadow(-12px 8px 5px #000000c9);
 }
